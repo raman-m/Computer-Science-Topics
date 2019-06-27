@@ -26,7 +26,7 @@ This pattern is used to capture an object’s internal state and save it externa
 it can be restored later.
 
 ##### Memento Pattern class diagram
-![](https://github.com/raman-m/dotnet/blob/master/bc-topics/OOP/Memento_Pattern.svg)
+![](https://github.com/raman-m/Computer-Science-Topics/blob/master/OOP/Memento_Pattern.svg)
 
 ### OOD Basics
 [Basics](Basics.md)
